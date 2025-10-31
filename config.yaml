@@ -1,0 +1,24 @@
+app:
+  name: "Multimodal RAG System"
+  version: "1.0.0"
+
+vector_db:
+  path: "./data/vector_db"
+  collection_name: "multimodal_docs"
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+
+processing:
+  chunk_size: 500  # Reduced for better chunking
+  chunk_overlap: 100
+  max_file_size_mb: 10
+  supported_extensions: [".txt", ".pdf", ".png", ".jpg", ".jpeg"]
+
+retrieval:
+  default_top_k: 5
+  similarity_threshold: 0.3  # Lower threshold for better results
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

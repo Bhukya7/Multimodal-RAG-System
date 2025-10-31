@@ -1,0 +1,5 @@
+
+    Artificial Intelligence is the simulation of human intelligence in machines.
+    AI systems can perform tasks like learning, reasoning, and problem-solving.
+    Machine learning is a subset of AI that focuses on algorithms that learn from data.
+    

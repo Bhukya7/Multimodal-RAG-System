@@ -1,0 +1,51 @@
+
+    QUARTERLY SALES REPORT - Q4 2024
+
+    EXECUTIVE SUMMARY:
+    Total revenue for Q4 2024 reached $3.59 million, representing a 15% increase compared to Q3 2024. This growth was driven by strong performance across all product lines and geographic regions.
+
+    PRODUCT PERFORMANCE:
+
+    Product A: Next-Gen Smartphone
+    - Revenue: $1.2 million
+    - Units sold: 8,000
+    - Growth: +12% quarter-over-quarter
+    - Key markets: North America, Europe
+
+    Product B: Enterprise Software Suite  
+    - Revenue: $890,000
+    - Units sold: 445 licenses
+    - Growth: +18% quarter-over-quarter
+    - Key markets: Global enterprise clients
+
+    Product C: AI Analytics Platform
+    - Revenue: $1.5 million
+    - Units sold: 150 enterprise contracts
+    - Growth: +25% quarter-over-quarter
+    - Key markets: Technology, Finance sectors
+
+    REGIONAL BREAKDOWN:
+
+    North America:
+    - Total revenue: $2.1 million
+    - Growth: +14% from previous quarter
+    - Top product: Product C (AI Analytics)
+
+    Europe:
+    - Total revenue: $980,000  
+    - Growth: +16% from previous quarter
+    - Top product: Product A (Smartphone)
+
+    Asia:
+    - Total revenue: $510,000
+    - Growth: +20% from previous quarter
+    - Top product: Product B (Software)
+
+    KEY METRICS:
+    - Customer acquisition cost: $1,200
+    - Customer lifetime value: $15,800
+    - Net promoter score: 68
+    - Market share: 22% (up from 19% in Q3)
+
+    The charts in the appendix show detailed growth trajectories for each product category and regional market. Overall, we expect this positive trend to continue into Q1 2025.
+    

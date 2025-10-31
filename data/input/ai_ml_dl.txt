@@ -1,0 +1,33 @@
+
+    ARTIFICIAL INTELLIGENCE OVERVIEW
+
+    Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.
+
+    Key applications of AI include:
+    - Expert systems
+    - Natural language processing (NLP)
+    - Speech recognition
+    - Machine vision
+
+    AI can be categorized as either weak or strong. Weak AI is designed to perform a narrow task, while strong AI can perform any intellectual task that a human can.
+
+    MACHINE LEARNING FUNDAMENTALS
+
+    Machine Learning is a subset of AI that focuses on building systems that learn from data. Instead of being explicitly programmed, ML models learn patterns from data.
+
+    There are three main types of machine learning:
+    1. Supervised Learning - Learning from labeled data
+    2. Unsupervised Learning - Finding patterns in unlabeled data  
+    3. Reinforcement Learning - Learning through trial and error
+
+    DEEP LEARNING ADVANCEMENTS
+
+    Deep Learning uses neural networks with many layers to learn from large amounts of data. These deep neural networks have revolutionized fields like computer vision and natural language processing.
+
+    Popular deep learning architectures include:
+    - Convolutional Neural Networks (CNNs) for images
+    - Recurrent Neural Networks (RNNs) for sequences
+    - Transformers for natural language processing
+
+    The transformer architecture, introduced in 2017, has become the foundation for modern large language models like GPT and BERT.
+    

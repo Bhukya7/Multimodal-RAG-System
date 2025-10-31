@@ -1,0 +1,16 @@
+
+    Sales Data Report Q4 2024
+    
+    Quarterly Performance:
+    - Product A: $1.2M revenue
+    - Product B: $890K revenue  
+    - Product C: $1.5M revenue
+    
+    Regional Performance:
+    - North America: $2.1M
+    - Europe: $980K
+    - Asia: $510K
+    
+    The chart on page 2 shows the growth trajectory for each product category.
+    Overall sales increased by 15% compared to Q3 2024.
+    
